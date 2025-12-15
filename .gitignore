@@ -1,0 +1,4 @@
+__pycache__/*
+appi/*
+.env
+models/__pycache__/*

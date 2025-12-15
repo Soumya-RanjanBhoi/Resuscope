@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+env/
+venv/
+myenv/
+appi/
+
+*.pdf
+
+
+.git/
+.gitignore
